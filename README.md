@@ -13,7 +13,6 @@ This project consists of a front-end of a product manager of a certain establish
 
 - ReactJS;
 - Typescript;
-- Redux;
   <br/>
 
 ## :rocket: Running the project
